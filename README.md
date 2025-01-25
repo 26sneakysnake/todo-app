@@ -20,10 +20,9 @@ This is a full-stack web application for managing a to-do list. It is built with
 
 | Feature         | Screenshot                                                                                 |
 | --------------- | ------------------------------------------------------------------------------------------ |
-| Task List       | ![Task List Screenshot](./screenshots/task-list.png)     |
-| Create Task     | ![Create Task Screenshot](./screenshots/create-task.png) |
-| Update Task     | ![Update Task Screenshot](./screenshots/update-task.png) |
-| Tasks Chart     | ![Tasks Chart Screenshot](./screenshots/tasks-chart.png) |
+| Task List       | ![image](https://github.com/user-attachments/assets/7eb169d5-76ff-4675-8fd5-f26222958537)|
+| Create Task     | ![image](https://github.com/user-attachments/assets/7978d9e0-dda8-4388-983b-bed089e08462)|
+| Tasks Chart     | ![image](https://github.com/user-attachments/assets/46cd3b3e-95fa-4b4c-a38f-d03dca799272)|
 
 ## User Guide
 
@@ -99,8 +98,8 @@ This is a full-stack web application for managing a to-do list. It is built with
 1. **Clone the repository:**
 
     
-    git clone [your-repository-url]
-    cd [your-repository-name]
+    git clone https://github.com/26sneakysnake/todo-app/
+    cd todo-app
 
 2. **Install backend dependencies:**
 
@@ -153,3 +152,7 @@ This is a full-stack web application for managing a to-do list. It is built with
 ## License
 
 No License
+
+## Acknowledgement
+
+The edition of this README file was made using the help of a Generative AI LLM.
